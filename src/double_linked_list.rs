@@ -1,5 +1,4 @@
 use std::cell::RefCell;
-use std::ffi::c_double;
 use std::rc::Rc;
 
 type LinkNode<T> = Option<Rc<RefCell<Node<T>>>>;
