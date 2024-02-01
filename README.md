@@ -1,3 +1,3 @@
-# Implementing data structures with Rust
+# Data structures implemented in rust
 
 - [x] Double-Linked List
